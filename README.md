@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 - Instagram: @nicole.schx
 - E-mail: nicole.schmidt@acad.usfm.br
 - Pronomes: ela/dela
+- sou linda
+
