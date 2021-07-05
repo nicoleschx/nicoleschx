@@ -2,7 +2,7 @@
 
 ***
 
-Me chamo Nicole, tenho 17 anos e estou no segundo ano do EM integrado ao Técnico em Informática para Internet!
+Sou a Nicole, tenho 17 anos e estou no segundo ano do EM integrado ao Técnico em Informática para Internet!
 
 
 #### *Um pouco sobre mim...*
