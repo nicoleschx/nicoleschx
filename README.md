@@ -1,13 +1,15 @@
-### Hi there 👋
+# OiOi,
+
+***
+
+Me chamo Nicole, tenho 17 anos e estou no segundo ano do EM integrado ao Técnico em Informática para Internet!
 
 
-**nicoleschx/nicoleschx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#### *Um pouco sobre mim...*
 
 - Estudante de Informática para Internet- CTISM/UFSM
-- Instagram: @nicole.schx
+- Faço parte de um projeto de pesquisa em Performance Vegetal
+- Instagram: [@nicole.schx](https://www.instagram.com/nicole.schx/)
 - E-mail: nicole.schmidt@acad.usfm.br
-- Pronomes: ela/dela
-
+- Santa Maria/RS
 
